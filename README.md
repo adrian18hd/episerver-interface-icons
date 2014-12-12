@@ -1,10 +1,10 @@
 episerver-interface-icons
 =========================
 
-A collection of 55 icons for EPiServer 7+ CMS content types. 
+A collection of 87 icons for EPiServer 7+ CMS content types. 
 
 ![EPiServer interface icons](http://www.markeverard.com/wp-content/uploads/2014/11/CMS-icon-index2.png "EPiServer interface icons")
 
-If you use them, why not return some kindness by [donating some money to our cause.](http://www.mariecurie.org.uk/donate)
+12/12/14 - Thanks to the contibution from [https://github.com/asthiss]Petter Klang, who added another 32 icons.
 
-* The icons are a derivative of an icon set by Michael Reimer from [http://www.bestpsdfreebies.com](http://www.bestpsdfreebies.com). If you’re in need of any other icons, you should check out his site.
+* Some of the icons are a derivative of an icon set by Michael Reimer from [http://www.bestpsdfreebies.com](http://www.bestpsdfreebies.com). If you’re in need of any other icons, you should check out his site.
